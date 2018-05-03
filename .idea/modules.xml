@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Tirageausor.iml" filepath="$PROJECT_DIR$/Tirageausor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tirageausore.iml" filepath="$PROJECT_DIR$/Tirageausore.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>

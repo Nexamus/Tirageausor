@@ -11,6 +11,8 @@ import com.gritlab.tirageausore.R;
 
 public class SaisieActivity extends AppCompatActivity {
 
+    //J'ajoute un commentaire
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
